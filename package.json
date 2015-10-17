@@ -1,0 +1,17 @@
+{
+  "name": "fbgraph",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "dependencies": {
+    "express": "~3.4.5",
+    "fbgraph": "~0.2.8",
+    "mongoose": "~3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
